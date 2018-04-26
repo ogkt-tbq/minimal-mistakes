@@ -20,7 +20,7 @@ title                    : "Triple Back Quote"
 title_separator          : "-"
 name                     : "Kenta Ogasawara"
 description              : "A little technical website."
-url                      : "https://ogkt-tbq.github.io" # "https://tbq.mobi"
+url                      : "https://tbq.mobi"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ogkt-tbq/ogkt-tbq.github.io"
 teaser                   : "/assets/images/Teaser-Image.jpg"
@@ -261,7 +261,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
