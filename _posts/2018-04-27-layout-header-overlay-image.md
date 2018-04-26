@@ -5,19 +5,14 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_url: "https://unsplash.com"
 categories:
-  - Layout
+  - ブログ構築
 tags:
   - image
-  - layout
+  - Jeykill
+  
 ---
 
-This post should display a **header with an overlay image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
-
-## Overlay filter
+### header imageを指定して、ブログタイトルをimageの上に記載させる
 
 You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
 
